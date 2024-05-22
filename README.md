@@ -20,16 +20,6 @@
 1. 锁定组件
 1. 网格线
 
-## 在线 DEMO
-* [预览入口（Github）不翻墙可能速度慢](https://woai3c.github.io/visual-drag-demo)
-
-## 文档
-* [可视化拖拽组件库一些技术要点原理分析](https://github.com/woai3c/Front-end-articles/issues/19)
-* [可视化拖拽组件库一些技术要点原理分析（二）](https://github.com/woai3c/Front-end-articles/issues/20)
-* [可视化拖拽组件库一些技术要点原理分析（三）](https://github.com/woai3c/Front-end-articles/issues/21)
-* [可视化拖拽组件库一些技术要点原理分析（四）](https://github.com/woai3c/Front-end-articles/issues/33)
-* [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45)
-
 ## 开发
 ### 安装
 ```
@@ -47,11 +37,6 @@ npm run build
 ## License
 MIT
 
-## 赞助
-如果你觉得本项目对你的帮助很大，可以请作者喝一杯奶茶🎁😉。
-
-![](https://github.com/woai3c/nand2tetris/blob/master/img/wx.jpg)
-![](https://github.com/woai3c/nand2tetris/blob/master/img/zfb.jpg)
 
 
 
